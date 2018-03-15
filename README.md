@@ -1,7 +1,7 @@
 # EnterpriseArchEffectModel
 Leaderships and Effectiveness Model in an Agile World
 
-The main file to access is "Enterprise Architecture-being effective version 1.0"
+The main file to access is "Enterprise Architecture-Being Effective version 1.0"
 
 
 
